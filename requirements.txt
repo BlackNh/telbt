@@ -1,3 +1,2 @@
 pyrogram
-pyrogram tgcrypto
-https://github.com/pyrogram/pyrogram/archive/master.zip
+
