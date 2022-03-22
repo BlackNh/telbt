@@ -1,3 +1,3 @@
-pip3 install -U pyrogram
-pip3 install -U pyrogram tgcrypto
-pip3 install -U https://github.com/pyrogram/pyrogram/archive/master.zip
+pyrogram
+pyrogram tgcrypto
+https://github.com/pyrogram/pyrogram/archive/master.zip
